@@ -16,5 +16,4 @@ Created by Arvid Landmark, September 2019.
 
 Preview:
 ![image](beta_calc.png)
-Preview:
 ![image](beta_calc_py.png)
