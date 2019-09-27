@@ -1,6 +1,6 @@
 Welcome to my beta calculator!
 
-This program pulls monthly stock price, index market price and risk-free rate to calculate the beta for a specific stock.
+This program pulls monthly stock price, index market price and risk-free rate to calculate the beta for any number of stocks.
 
 Save the beta_base file on your computer. 
 Open the python file and enter the desired stock ticker and location of the beta_base file.
