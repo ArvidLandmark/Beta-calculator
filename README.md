@@ -14,5 +14,6 @@ All data is retrieved from https://finance.yahoo.com/.
 
 Created by Arvid Landmark, September 2019.
 
-![image](beta_calc_py.png)
+Preview:
 ![image](beta_calc.png)
+![image](beta_calc_py.png)
